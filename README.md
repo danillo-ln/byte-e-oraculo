@@ -1,3 +1,6 @@
+<img width="92" height="121" alt="Captura de Tela 2026-09-09 às 17 25 15" src="https://github.com/user-attachments/assets/d3aef73c-82ad-4f74-ad17-7904906c5ae2" />
+O gap se deve ao meu período de férias do trabalho.
+
 # byte e oráculo
 
 Dois produtos internos em produção na robbin, uma fintech de crédito. construídos entre julho e agosto de 2026, nos meus primeiros dois meses programando, com agentes de código como ferramenta principal.
